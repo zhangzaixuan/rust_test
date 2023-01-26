@@ -1,1 +1,1 @@
-#test idea push github is run
+#the test rust project
